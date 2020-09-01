@@ -1,0 +1,3 @@
+type Handler = {
+  error: any;
+};
