@@ -1,6 +1,6 @@
 import actions from './actions';
 
-const initialState: Handler = {
+const initialState: HandlerState = {
   error: null,
 };
 

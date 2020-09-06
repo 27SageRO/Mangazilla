@@ -5,7 +5,7 @@ import {PersistGate} from 'redux-persist/integration/react';
 import {Provider} from 'react-redux';
 import {store, persistor} from 'services/store';
 
-import Home from 'ui/home';
+import Home from 'ui/home/container';
 import R from 'resource/R';
 
 const theme: Theme = {

@@ -1,0 +1,3 @@
+type HandlerState = {
+  error: any;
+};
